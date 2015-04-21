@@ -1,0 +1,9 @@
+Building DtbCoin
+
+See doc/readme-qt.rst for instructions on building DtbCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of DtbCoin.
+
+See doc/build-*.txt for instructions on building DtbCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of DtbCoin.
